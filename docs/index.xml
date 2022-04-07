@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alexsarget.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Título de tu blog post</title>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
       <link>https://alexsarget.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://alexsarget.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+      <description>Bienvenido! Estas son algunas de las cosas que he aprendido a lo largo de este viaje a manos del equipo de LaunchX: -HTML -CSS -JavaScript -Frameworks -Lógica de programacón -Command Line -Git -GitHub -Node JS</description>
     </item>
     
     <item>
