@@ -1,7 +1,17 @@
 ---
-title: "Título de tu blog post"
+title: "Mi ruta de aprendizaje en LaunchX"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Te contare sobre mi travesía en LaunchX de Innovación Virtual'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+Bienvenido!
+Estas son algunas de las cosas que he aprendido a lo largo de este viaje a manos del equipo de LaunchX:
+-HTML
+-CSS
+-JavaScript
+-Frameworks
+-Lógica de programacón
+-Command Line
+-Git
+-GitHub
+-Node JS
