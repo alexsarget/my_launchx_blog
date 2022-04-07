@@ -1,6 +1,6 @@
 baseURL = "https://alexsarget.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje  Alejandro"
+title = "Bitácora de Viaje Alejandro"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
