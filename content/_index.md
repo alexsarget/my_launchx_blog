@@ -7,4 +7,10 @@ Hola ✌️  soy el explorer **Alejandro** y este es mi blog personal donde comp
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas par eete proyecto son:
+* Conocer las herramientas que ofrece Git y GitHub para ser un buen Desarrollador 
+* Aprender JavaScript nivel Maestro
+* Aplicar mis conocimientos de frontend e integrarlos a mi aprendizaje en backend
+* Compartir mi experiencia con los demas explorers
+
 🚀
